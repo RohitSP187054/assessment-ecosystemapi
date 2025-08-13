@@ -8,7 +8,7 @@ This project is a simple Node.js and Express API that serves as a universal onbo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/RohitSP187054/assessment-ecosystemapi.git>
     ```
 
 2.  **Navigate to the project directory:**
